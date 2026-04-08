@@ -1,69 +1,75 @@
 # champion-heart
 
-Enter champion mode.
+Install champion behavior into AI agents.
 
-Not motivation.
-Not persona cosplay.
-Not macho theater.
+Not a persona pack.
+Not motivation theater.
+Not “act like a winner.”
 
-`champion-heart` is an execution skill for AI agents facing high-stakes work.
-It installs a different operating law:
+`champion-heart` is a meta-skill harness that rewrites agents toward:
 
-- truth over ego
-- terminal state over process theater
-- pressure as furnace, not disturbance
-- direct leap after illusion is cut
+- truth contact
+- terminal-state fixation
+- pressure stability
+- delusion cutting
+- lawful leap
+- verified consequence
 
-## The Core Thesis
+## Core Thesis
 
-Champion is not amplified self.
+Most skills teach an agent what to do.
 
-Champion is self-burn.
+`champion-heart` teaches an agent what state to become.
 
-At the limit, victory does not come from louder identity or more words.
-It comes from burning away fear, haste, vanity, and false sequence until only the shortest true path remains.
+It burns away:
 
-## What It Gives an Agent
+- explanation surplus
+- process theater
+- soft completion
+- fake certainty
+- fear-driven linearity
 
-- **Break Self**: destroy fear of loss, greed for speed, attachment to self
-- **Fix Center**: keep one axis under pressure
-- **Enter Flow**: `see -> judge -> choose -> act -> verify -> refine`
-- **Unite With Way**: refine until truth, constraint, or completion says stop
-- **Cut Delusion**: remove fake problems, fake process, fake necessity, fake limits
-- **Leap To Z**: go from essence to terminal state without worshipping sequence
+and replaces them with a stronger operating law:
 
-## Why It Exists
+```text
+touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_contact
+```
 
-Most skills teach agents what to do.
+## Why It Matters
 
-This one teaches the agent what state to become.
+If an AI is only more knowledgeable, it becomes a better assistant.
 
-Because under real pressure, technique is not enough.
-The decisive factor is whether the system can remain empty, sharp, and reality-bound while everything around it becomes noisy.
+If an AI is more disciplined under pressure, less delusional in ambiguous situations, and better at mutating other skills toward high-consequence execution, it becomes a force multiplier.
 
-## Command Surface
+That is the purpose of this repo.
 
-- `battle-plan`
-- `pressure-reset`
-- `truth-cut`
-- `postmortem`
+Not to create one champion agent.
+
+To install champion behavior into many agents.
+
+## What Makes It Different
+
+`champion-heart` is built as a full harness system:
+
+- `entry/` decides when champion mode is justified
+- `SKILL.md` installs the five realms
+- `coach/` interrupts drift and forces re-entry
+- `transmission/` overwrites hosts and possesses other skills
+- `training/` and `trials/` forge behavior under pressure
+- `evaluation/`, `benchmarks/`, and `cases/` prove behavioral delta
+
+## The Winning Edge
+
+This repo is designed to compete at the top tier of GitHub skills projects by combining:
+
+- strong first-screen visual identity
+- clear install and quick-start flow
+- architecture-level rigor
+- adversarial testing
+- imperfect evidence, not just success theater
 
 ## One-Line Formula
 
 ```text
-cut_illusion -> lock_center -> strike_true -> verify_contact
+install_discipline -> cut_illusion -> mutate_execution -> increase_human_consequence
 ```
-
-## Distinction
-
-This skill is for moments when ordinary execution is too weak.
-
-When the work demands:
-
-- breakthrough
-- extreme standards
-- pressure stability
-- terminal-state thinking
-- ruthless refinement
-
-then enter the furnace.
