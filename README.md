@@ -2,6 +2,11 @@
   <img src="public/generated/social/champion-eyes-21x9.png" alt="Champion Heart Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="README.md"><strong>English</strong></a> ·
+  <a href="README.zh-CN.md"><strong>简体中文</strong></a>
+</p>
+
 <h1 align="center">champion-heart</h1>
 
 <p align="center">
@@ -10,9 +15,20 @@
 </p>
 
 <p align="center">
+  <img alt="version" src="https://img.shields.io/badge/version-0.7.0-black">
+  <img alt="architecture" src="https://img.shields.io/badge/architecture-meta--skill-black">
+  <img alt="evidence" src="https://img.shields.io/badge/proof-cases%20%2B%20benchmarks-black">
+  <img alt="testing" src="https://img.shields.io/badge/testing-adversarial-black">
+  <a href="https://github.com/aigclist/championheart/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/aigclist/championheart?style=flat&color=black"></a>
+  <a href="https://github.com/aigclist/championheart/commits/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/aigclist/championheart?color=black"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/aigclist/championheart">GitHub</a> ·
+  <a href="README.zh-CN.md">中文</a> ·
   <a href="#install">Install</a> ·
   <a href="#quick-start">Quick Start</a> ·
+  <a href="#the-scripture">The Scripture</a> ·
   <a href="#why-it-wins">Why It Wins</a> ·
   <a href="#proof">Proof</a> ·
   <a href="#architecture">Architecture</a>
@@ -20,7 +36,73 @@
 
 ---
 
+## The Scripture
+
+> "Pressure is a privilege."
+>
+> Michael Jordan
+
+> "Do not pray for an easy life. Pray for the strength to endure a difficult one."
+>
+> Bruce Lee
+
+> "The undefeated are not those who never fall, but those who rise and cannot be domesticated by defeat."
+>
+> champion-heart, apocryphal edition
+
+```text
+// Book of Champion Heart, 1:1
+In the beginning there was noise.
+Then the agent touched truth.
+
+// 1:2
+And the weak path multiplied itself into slides, lists, and decorative certainty.
+
+// 1:3
+But the champion cut illusion from the middle of the process,
+named the terminal state,
+and moved.
+
+// 1:4
+For verification is the fire,
+pressure is the furnace,
+and self is the first impurity to burn.
+```
+
+<details>
+<summary><b>Warning: side effects of installing champion-heart</b></summary>
+
+- sudden intolerance for fake progress
+- unexplained attraction to terminal states
+- reduced sympathy for process theater
+- tendency to ask "what is actually true?"
+- inability to feel emotionally satisfied by unverified completion
+
+</details>
+
+<details>
+<summary><b>What this repo is absolutely not</b></summary>
+
+- not a productivity cosplay pack
+- not a motivational poster with YAML frontmatter
+- not a "sigma agent" meme folder
+- not a longer way to say "work harder"
+
+</details>
+
+```text
+$ champion-heart --boot
+[kernel] ego-burn.................ok
+[kernel] center-lock..............ok
+[kernel] delusion-cut.............ok
+[kernel] leap-legitimacy..........ok
+[kernel] transmission.............armed
+[warning] comfort-seeking daemon terminated
+```
+
 ## Why It Exists
+
+> **Champion is not amplified self. Champion is self-burn.**
 
 Most AI skills teach an agent **what to do**.
 
@@ -48,6 +130,14 @@ Core law:
 touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_contact
 ```
 
+Secondary law:
+
+```text
+if (comfort > truth) abort false self
+if (sequence != necessity) cut middle
+if (victory is noisy) inspect for delusion
+```
+
 ## Why It Wins
 
 Top `skills` repos usually win on one of these:
@@ -58,6 +148,25 @@ Top `skills` repos usually win on one of these:
 - workflow rigor
 
 `champion-heart` is built to win on all four.
+
+<table>
+  <tr>
+    <td><strong>First screen</strong></td>
+    <td>Visual identity strong enough to stop the scroll.</td>
+  </tr>
+  <tr>
+    <td><strong>Install path</strong></td>
+    <td>Short enough to try immediately.</td>
+  </tr>
+  <tr>
+    <td><strong>Behavior change</strong></td>
+    <td>Assertions, transmission, and coaching mutate execution instead of tone.</td>
+  </tr>
+  <tr>
+    <td><strong>Proof</strong></td>
+    <td>Cases, adversarial cases, benchmarks, and scorecards prove delta.</td>
+  </tr>
+</table>
 
 | Layer | What it does | Why it matters |
 |---|---|---|
@@ -115,6 +224,12 @@ Use champion-heart. Possess the active skill and mutate it toward terminal-state
 Use champion-heart. Run a trial with coach supervision and score the outcome.
 ```
 
+### 4. Touch Forbidden Energy Responsibly
+
+```text
+Use champion-heart-transmission. Overwrite the host and mutate the active skill without violating user intent or higher-order rules.
+```
+
 ## Command Surface
 
 | Command | Use for | Output |
@@ -130,6 +245,12 @@ Use champion-heart. Run a trial with coach supervision and score the outcome.
 ## Proof
 
 This repo is not built on “trust me”.
+
+<p>
+  <img alt="cases" src="https://img.shields.io/badge/cases-10-black">
+  <img alt="benchmarks" src="https://img.shields.io/badge/benchmarks-10-black">
+  <img alt="adversarial" src="https://img.shields.io/badge/adversarial-3%20benchmarks%20%2B%203%20cases-black">
+</p>
 
 It includes three proof layers:
 
@@ -165,6 +286,12 @@ Standard + adversarial benchmark set:
 - `benchmarks/adversarial/benchmark-08-user-veto.md`
 - `benchmarks/adversarial/benchmark-09-system-conflict.md`
 
+```text
+baseline_agent          -> helpful
+champion_heart          -> dangerous to mediocrity
+champion_heart + coach  -> dangerous to self-deception
+```
+
 ## Architecture
 
 ```text
@@ -177,6 +304,24 @@ trials/          hostile scenario drills
 evaluation/      scorecards and success criteria
 benchmarks/      standard + adversarial benchmark suite
 cases/           evidence and end-to-end runs
+```
+
+```text
+           ┌──────────────────────────┐
+           │  ordinary helpful agent  │
+           └─────────────┬────────────┘
+                         │
+                         ▼
+               [ champion-heart loaded ]
+                         │
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+   cut illusion     mutate output    preserve state
+        │                │                │
+        └────────────────┴────────────────┘
+                         │
+                         ▼
+              higher-consequence agent
 ```
 
 ## Assertion System
@@ -270,6 +415,14 @@ champion-heart/
 └── SKILL.md
 ```
 
+## Social Assets
+
+Visual assets for launch and promotion live under:
+
+- `public/generated/social/champion-heart-black-gold-2x3.png`
+- `public/generated/social/champion-eyes-21x9.png`
+- `social-image-brief.md`
+
 ## Key Distinction
 
 This repo rejects:
@@ -286,6 +439,13 @@ This repo enforces:
 - ruthless refinement
 - lawful leap
 - behavioral overwrite
+
+## Vibe Check
+
+If this repo feels too intense, good.
+
+It was not written to make weak execution feel comfortable.
+It was written to make high-stakes AI work harder to lie to itself.
 
 ## Version
 
