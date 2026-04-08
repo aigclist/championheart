@@ -1,5 +1,7 @@
 # champion-heart
 
+![Champion Heart Banner](public/generated/social/champion-eyes-21x9.png)
+
 Enter champion mode.
 
 High-density execution skill for high-stakes work.
