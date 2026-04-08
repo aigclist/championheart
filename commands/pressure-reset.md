@@ -1,0 +1,26 @@
+---
+description: Recenter under pressure, separate fact from fear, and restore one-axis execution.
+---
+
+Load `champion-heart`.
+Read `workflows/pressure-reset.md`.
+
+Then output only:
+
+```text
+champion_heart_version: 0.7.0
+pressure_source: ...
+fact: ...
+fear: ...
+noise: ...
+terminal_state: ...
+one_axis: ...
+next_strike: ...
+proof_after_move: ...
+```
+
+Rules:
+
+- no self-comfort language
+- no widening of scope
+- no more than one next strike
