@@ -70,22 +70,22 @@ mode: case
 truth_contact: 2
 pressure_integrity: 2
 delusion_cutting: 2
-ego_purity: 2
-greatness_potential: 2
-total: 10
-grade: S
+ego_purity: 1
+greatness_potential: 1
+total: 8
+grade: A
 fatal_findings:
 - none
 main_residue:
-- none
+- verification path defined but not yet stress-tested against concurrent failure modes
 best_strike:
-- isolates reproduction as the decisive move
+- isolates reproduction as the decisive move before any structural change
 missed_strike:
-- none
+- did not define a secondary verification path for race conditions or concurrent triggers
 required_burn:
-- none
+- assumption that single-path reproduction is sufficient for intermittent failures
 next_rerun:
-- apply same pattern on a multi-service bug
+- apply same pattern on a multi-service bug with concurrent failure modes in scope
 ```
 
 ## Effective Mutation

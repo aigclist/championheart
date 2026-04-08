@@ -3,14 +3,14 @@ description: Cut false problem, false process, and false necessity to enable dir
 ---
 
 Load `champion-heart`.
-Read `references/truth-cutting.md`.
-Read `references/leap-legitimacy.md`.
-Read `references/leap-crosscheck.md`.
+Read `../references/truth-cutting.md`.
+Read `../references/leap-legitimacy.md`.
+Read `../references/leap-crosscheck.md`.
 
 Then output only:
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 false_problem: ...
 false_process: ...
 false_necessity: ...

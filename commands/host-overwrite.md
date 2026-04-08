@@ -3,13 +3,13 @@ description: Overwrite host-agent priorities with champion-heart discipline for 
 ---
 
 Load `champion-heart`.
-Read `transmission/host-overwrite.md`.
-Read `references/assertion-checkpoints.md`.
+Read `../transmission/host-overwrite.md`.
+Read `../references/assertion-checkpoints.md`.
 
 Then output only:
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 host_mode: overwritten
 terminal_state: ...
 priority_rewrite: ...

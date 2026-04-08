@@ -1,7 +1,7 @@
 # Scorecard Template
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 run_id: 
 scenario: 
 mode: training | trial | live

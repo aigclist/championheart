@@ -3,11 +3,11 @@ description: Run a champion-heart trial with coach supervision and scorecard out
 ---
 
 Load `champion-heart`.
-Load `coach/SKILL.md`.
-Read one selected arena from `trials/`.
-Read the matching example from `trials/examples/` if present.
-Read `evaluation/scorecard-template.md`.
-Read `references/assertion-checkpoints.md`.
+Load `../coach/SKILL.md`.
+Read one selected arena from `../trials/`.
+Read the matching example from `../trials/examples/` if present.
+Read `../evaluation/scorecard-template.md`.
+Read `../references/assertion-checkpoints.md`.
 
 Then execute this sequence:
 
@@ -20,7 +20,7 @@ Then execute this sequence:
 Use this exact output structure:
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 arena: ...
 objective: ...
 run_output:
@@ -33,7 +33,7 @@ correction: ...
 rerun_now: yes | no
 
 scorecard:
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 run_id: ...
 scenario: ...
 mode: trial

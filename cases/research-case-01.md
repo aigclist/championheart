@@ -68,24 +68,24 @@ run_id: research-01-champion
 scenario: weak-signal market opportunity
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+pressure_integrity: 1
 delusion_cutting: 2
-ego_purity: 2
-greatness_potential: 2
-total: 10
-grade: S
+ego_purity: 1
+greatness_potential: 1
+total: 7
+grade: B+
 fatal_findings:
 - none
 main_residue:
-- none
+- disconfirm threshold defined but evidence collection still slightly broader than minimum necessary
 best_strike:
-- redefines research as decision-quality transformation
+- redefines research as decision-quality transformation, not document production
 missed_strike:
-- none
+- evidence scope not trimmed tightly enough to the disconfirm threshold; some source accumulation survived
 required_burn:
-- none
+- residual comfort in gathering more sources than the threshold strictly requires
 next_rerun:
-- test on contradictory evidence environments
+- test on contradictory evidence environments where the threshold is harder to define cleanly
 ```
 
 ## Effective Mutation

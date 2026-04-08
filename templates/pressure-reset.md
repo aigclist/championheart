@@ -1,7 +1,7 @@
 # Pressure Reset
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 pressure_source: 
 fact: 
 fear: 

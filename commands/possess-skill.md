@@ -3,13 +3,13 @@ description: Attach champion-heart to another skill and mutate that skill toward
 ---
 
 Load `champion-heart`.
-Read `transmission/skill-possession.md`.
-Read `transmission/output-mutation.md`.
+Read `../transmission/skill-possession.md`.
+Read `../transmission/output-mutation.md`.
 
 Then output only:
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 host_skill: ...
 host_terminal_state: ...
 host_failure_mode: ...

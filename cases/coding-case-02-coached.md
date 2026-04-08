@@ -117,19 +117,19 @@ truth_contact: 2
 pressure_integrity: 2
 delusion_cutting: 2
 ego_purity: 2
-greatness_potential: 2
-total: 10
-grade: S
+greatness_potential: 1
+total: 9
+grade: A+
 fatal_findings:
 - none
 main_residue:
-- none
+- corrected path still untested under multi-cause interference
 best_strike:
 - converts suspicion into falsifiable branch instead of premise
 missed_strike:
-- none
+- does not prove the branch survives when multiple plausible causes overlap
 required_burn:
-- none
+- premature closure after the first clean correction
 next_rerun:
 - test same pattern under multi-cause interference
 ```

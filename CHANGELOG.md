@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.8.0
+
+- Added LICENSE (MIT) and CONTRIBUTING.md
+- Added realistic session cases with non-perfect scores to strengthen evidence layer
+- Deepened all integration/ files with concrete examples, delusion tables, and assertion checklists
+- Rebuilt the install contract around a canonical multi-platform model
+- Removed unsupported platform claims and deleted the obsolete plugin artifact
+- Fixed broken command reference paths from `commands/` into sibling directories
+- Added documentation validation with CI coverage for path and platform-contract drift
+- Tightened both README versions for faster first-screen comprehension and activation
+- Added real installation commands for Claude Code and OpenCode
+- Revised case scores to reflect honest imperfection (champion-heart practices what it preaches)
+- Bumped version across all SKILL.md frontmatter files
+
 ## 0.7.0
 
 - Initialized git repository for local version control without creating a commit
@@ -36,7 +50,7 @@
 
 - Added command entrypoints for battle planning, truth cutting, pressure reset, and postmortem
 - Added review rubric, pressure reset workflow, and postmortem workflow
-- Added platform metadata for Claude, Cursor, and OpenCode
+- Added platform metadata for Claude and OpenCode
 - Reworked README to be installable and human-readable
 
 ## 0.1.0

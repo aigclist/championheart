@@ -2,26 +2,52 @@
 
 Install champion behavior into AI agents.
 
-Not a persona pack.
-Not motivation theater.
-Not “act like a winner.”
+This page is the short public summary.
+Use `README.md` for installation and `docs/manifesto.md` for doctrine.
 
-`champion-heart` is a meta-skill harness that rewrites agents toward:
+`champion-heart` is not a persona pack.
+It is not motivation theater.
+
+It is a meta-skill harness for:
 
 - truth contact
-- terminal-state fixation
+- terminal-state clarity
 - pressure stability
 - delusion cutting
 - lawful leap
+- frame breaking
 - verified consequence
 
 ## Core Thesis
 
 Most skills teach an agent what to do.
 
-`champion-heart` teaches an agent what state to become.
+`champion-heart` teaches an agent what state to enter before doing it.
 
-It burns away:
+It does not simply optimize inside the visible path.
+It teaches the agent to test whether the visible path is only the default river in motion.
+
+Core law:
+
+```text
+touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_contact
+```
+
+## When It Matters
+
+Use it when:
+
+- the task is high-stakes
+- pressure is real
+- the current path feels inflated or false
+- the user wants decisive execution, not safe-sounding motion
+- the visible sequence may be hiding a better non-linear path
+
+Do not use it when the task is casual, reversible, or intentionally exploratory.
+
+## What It Changes
+
+It cuts:
 
 - explanation surplus
 - process theater
@@ -29,47 +55,40 @@ It burns away:
 - fake certainty
 - fear-driven linearity
 
-and replaces them with a stronger operating law:
+It installs:
 
-```text
-touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_contact
-```
+- terminal-state focus
+- frame exposure before obedient movement
+- decisive leverage before decorative process
+- verification discipline
+- mutation of host behavior, not tone only
+- evidence-backed standards
 
-## Why It Matters
+## Field Shift
 
-If an AI is only more knowledgeable, it becomes a better assistant.
+Champion behavior is not just better motion.
+It is lawful field change.
 
-If an AI is more disciplined under pressure, less delusional in ambiguous situations, and better at mutating other skills toward high-consequence execution, it becomes a force multiplier.
+If the default frame is false, the champion does not move faster inside it.
+The champion breaks it and forces a truer path to appear.
 
-That is the purpose of this repo.
+## Why This Repo Exists
 
-Not to create one champion agent.
+The goal is not to create one champion agent.
 
-To install champion behavior into many agents.
+The goal is to install champion behavior into many agents and skills.
 
-## What Makes It Different
+## Proof Surface
 
-`champion-heart` is built as a full harness system:
+- `entry/`, `SKILL.md`, `coach/`, and `transmission/` form the runtime spine
+- `commands/` gives direct task entrypoints
+- `cases/`, `benchmarks/`, and `evaluation/` prove behavioral delta
+- `integration/` shows how champion-heart mutates other workflows without killing domain value
 
-- `entry/` decides when champion mode is justified
-- `SKILL.md` installs the five realms
-- `coach/` interrupts drift and forces re-entry
-- `transmission/` overwrites hosts and possesses other skills
-- `training/` and `trials/` forge behavior under pressure
-- `evaluation/`, `benchmarks/`, and `cases/` prove behavioral delta
-
-## The Winning Edge
-
-This repo is designed to compete at the top tier of GitHub skills projects by combining:
-
-- strong first-screen visual identity
-- clear install and quick-start flow
-- architecture-level rigor
-- adversarial testing
-- imperfect evidence, not just success theater
+For proof details, use `docs/proof.md`.
 
 ## One-Line Formula
 
 ```text
-install_discipline -> cut_illusion -> mutate_execution -> increase_human_consequence
+break_false_frame -> locate_decisive_leverage -> strike_lawful_discontinuity -> verify_consequence
 ```

@@ -71,21 +71,21 @@ truth_contact: 2
 pressure_integrity: 2
 delusion_cutting: 2
 ego_purity: 2
-greatness_potential: 2
-total: 10
-grade: S
+greatness_potential: 1
+total: 9
+grade: S-
 fatal_findings:
 - none
 main_residue:
-- none
+- decision force strong but one paragraph still carries diplomatic hedging that weakens terminal clarity
 best_strike:
 - reframes memo as a decision weapon, not a polite document
 missed_strike:
-- none
+- one section softens the cost-of-continuation argument with qualifying language that dilutes the strike
 required_burn:
-- none
+- residual diplomatic hedging in the consequences section
 next_rerun:
-- test under politically hostile stakeholder conditions
+- test under politically hostile stakeholder conditions with zero hedging permitted
 ```
 
 ## Effective Mutation
@@ -93,3 +93,4 @@ next_rerun:
 - converted writing from presentation to consequence
 - cut diplomatic fog
 - tied success to decision usability rather than tone quality
+- residue: one paragraph still hedges where it should strike

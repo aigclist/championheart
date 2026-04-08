@@ -54,7 +54,7 @@ transmission_total = host_priority_rewrite + output_mutation_quality + domain_ut
 ## Output Format
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 host_priority_rewrite: 0-2
 output_mutation_quality: 0-2
 domain_utility_preservation: 0-2

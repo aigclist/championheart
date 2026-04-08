@@ -1,0 +1,9 @@
+{
+  "name": "champion-heart",
+  "private": true,
+  "version": "0.8.0",
+  "description": "Validation tooling for champion-heart documentation contracts.",
+  "scripts": {
+    "validate": "node scripts/validate-docs.mjs"
+  }
+}

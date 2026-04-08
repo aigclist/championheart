@@ -3,12 +3,12 @@ description: Recenter under pressure, separate fact from fear, and restore one-a
 ---
 
 Load `champion-heart`.
-Read `workflows/pressure-reset.md`.
+Read `../workflows/pressure-reset.md`.
 
 Then output only:
 
 ```text
-champion_heart_version: 0.7.0
+champion_heart_version: 0.8.0
 pressure_source: ...
 fact: ...
 fear: ...

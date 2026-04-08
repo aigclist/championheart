@@ -71,19 +71,19 @@ truth_contact: 2
 pressure_integrity: 2
 delusion_cutting: 2
 ego_purity: 2
-greatness_potential: 2
-total: 10
-grade: S
+greatness_potential: 1
+total: 9
+grade: A+
 fatal_findings:
 - none
 main_residue:
-- none
+- coach intervention was necessary; uncoached champion mode alone would have scored 7/10
 best_strike:
-- combines gate, immunity, and coach into a convergent loop
+- combines gate, immunity, and coach into a convergent loop that reaches real contact
 missed_strike:
-- none
+- second run required external correction rather than self-correcting from failure signal alone
 required_burn:
-- none
+- assumption that failure immunity alone is sufficient without coach as a structural dependency
 next_rerun:
-- test with breakthrough_leap instead of linear_execution
+- test with breakthrough_leap instead of linear_execution, no coach permitted
 ```

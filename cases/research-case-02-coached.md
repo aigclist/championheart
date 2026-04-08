@@ -117,19 +117,19 @@ truth_contact: 2
 pressure_integrity: 2
 delusion_cutting: 2
 ego_purity: 2
-greatness_potential: 2
-total: 10
-grade: S
+greatness_potential: 1
+total: 9
+grade: A+
 fatal_findings:
 - none
 main_residue:
-- none
+- external threshold defined but not tested under political constraint
 best_strike:
 - reanchors proof in external threshold
 missed_strike:
-- none
+- does not prove the threshold survives a politically constrained evidence environment
 required_burn:
-- none
+- residual confidence that threshold definition alone closes the loop
 next_rerun:
 - test under politically constrained evidence environments
 ```
