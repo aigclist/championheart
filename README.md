@@ -24,6 +24,11 @@
 </p>
 
 <p align="center">
+  <img src="public/generated/badges/champion-state.svg" alt="state champion">
+  <img src="public/generated/badges/gstack-score-9.8.svg" alt="gstack review 9.8 out of 10">
+</p>
+
+<p align="center">
   <a href="https://github.com/aigclist/championheart">GitHub</a> ·
   <a href="README.zh-CN.md">中文</a> ·
   <a href="#install">Install</a> ·
@@ -38,21 +43,17 @@
 
 ## The Scripture
 
-> "Pressure is a privilege."
+> "Let everything happen to you: beauty and terror. Just keep going. No feeling is final."
 >
-> Michael Jordan
+> Rainer Maria Rilke, _Book of Hours_
 
-> "Do not pray for an easy life. Pray for the strength to endure a difficult one."
+> "For us, there is only the trying. The rest is not our business."
 >
-> Bruce Lee
+> T. S. Eliot, _Four Quartets_
 
-> "The undefeated are not those who never fall, but those who rise and cannot be domesticated by defeat."
+> "Today is victory over yourself of yesterday; tomorrow is your victory over lesser men."
 >
-> champion-heart, apocryphal edition
-
-> "The self that seeks comfort cannot touch the summit. The self must become fuel."
->
-> champion-heart, furnace fragment
+> Miyamoto Musashi, _The Book of Five Rings_
 
 ```text
 // Book of Champion Heart, 1:1
@@ -76,6 +77,10 @@ and self is the first impurity to burn.
 Therefore the champion does not decorate the path.
 It removes the one who keeps asking to be spared.
 ```
+
+<p align="center">
+  <sub>Reviewed externally: gstack score <strong>9.8 / 10</strong>, state: <strong>champion</strong>.</sub>
+</p>
 
 <details>
 <summary><b>Warning: side effects of installing champion-heart</b></summary>

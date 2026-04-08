@@ -24,6 +24,11 @@
 </p>
 
 <p align="center">
+  <img src="public/generated/badges/champion-state.svg" alt="state champion">
+  <img src="public/generated/badges/gstack-score-9.8.svg" alt="gstack review 9.8 out of 10">
+</p>
+
+<p align="center">
   <a href="https://github.com/aigclist/championheart">GitHub</a> ·
   <a href="#安装">安装</a> ·
   <a href="#快速开始">快速开始</a> ·
@@ -37,21 +42,17 @@
 
 ## 经文
 
-> “压力是一种特权。”
+> “让一切临到你：美与惊骇。只管前行，没有一种感受是最终的。”
 >
-> Michael Jordan
+> 里尔克，《时辰书》
 
-> “不要祈求轻松的人生。祈求足以承受艰难的力量。”
+> “于我辈而言，所能掌者，唯有一试。其余皆非我辈所可执。”
 >
-> Bruce Lee
+> T. S. Eliot，《Four Quartets》
 
-> “真正不可战胜的，不是从未倒下的人，而是倒下之后再也无法被失败驯化的人。”
+> “今日之胜，胜昨日之己；明日之胜，胜天下之凡。”
 >
-> 《冠军之心伪经》
-
-> “欲登绝顶者，不可携其我而上。其我太重，则道不降临；其心不焚，则锋不成器。”
->
-> 《冠军之心残卷》
+> 宫本武藏，《五轮书》
 
 ```text
 // 冠军之心经 1:1
@@ -75,6 +76,10 @@
 是故冠军不为路径涂脂抹粉，
 只先焚尽那个不断求饶的“我”。
 ```
+
+<p align="center">
+  <sub>外部评审：gstack 评分 <strong>9.8 / 10</strong>，状态：<strong>champion</strong>。</sub>
+</p>
 
 <details>
 <summary><b>安装冠军之心后的副作用</b></summary>
