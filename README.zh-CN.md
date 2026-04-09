@@ -7,7 +7,7 @@
   <a href="README.zh-CN.md"><strong>简体中文</strong></a>
 </p>
 
-<h1 align="center">冠军之心.skill / Champion Heart.skill</h1>
+<h1 align="center">⚔️ 冠军之心.skill / Champion Heart.skill</h1>
 
 <p align="center">
   <strong>把冠军级行为安装进 AI agent。</strong><br>
@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-  <a href="#安装">安装</a> ·
-  <a href="#快速开始">快速开始</a> ·
-  <a href="#适用场景">适用场景</a> ·
-  <a href="#最高优先级触发词">最高优先级触发词</a> ·
-  <a href="#为什么它能打">为什么它能打</a> ·
+  <a href="#-安装">安装</a> ·
+  <a href="#-快速开始">快速开始</a> ·
+  <a href="#-适用场景">适用场景</a> ·
+  <a href="#-触发词">触发词</a> ·
+  <a href="#-为什么它能打">为什么它能打</a> ·
   <a href="docs/manifesto.md">Manifesto</a> ·
   <a href="docs/proof.md">Proof</a> ·
   <a href="docs/platforms.md">Platforms</a>
@@ -41,21 +41,34 @@
 
 ---
 
-## 它是什么
+<div align="center">
+
+> *不拜虚序。不行假路。*
+> *压力为炉，烧尽即明。*
+> *场开之处，不爬行。*
+> *刃落之处，即是道。*
+
+</div>
+
+---
+
+## 🔥 它是什么
 
 `冠军之心.skill` 不是人格皮肤。
 它不是励志海报，也不是语气增强器。
 
-它是一个面向高压任务的行为覆写层。
+它是一个面向高压任务的**行为覆写层**。
 
 它把 agent 推向这几个核心状态：
 
-- 终局清晰
-- 抗压稳定
-- 斩断幻觉
-- 合法跃迁
-- 破框改道
-- 结果可验
+| 状态 | 含义 |
+|------|------|
+| 🎯 终局清晰 | 先定义终态，再决定路径 |
+| 🛡️ 抗压稳定 | 压力是炉，不是干扰 |
+| 🗡️ 斩断幻觉 | 砍掉假问题、假流程、假困难 |
+| ⚡ 合法跃迁 | 非线性路径合法时，直接跳 |
+| 🔓 破框改道 | 打破默认河道，再决定是否优化 |
+| ✅ 结果可验 | 每一刀都要验证落点 |
 
 核心公式：
 
@@ -63,30 +76,30 @@
 touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_contact
 ```
 
-## 适用场景
+## 🎯 适用场景
 
-适合在这些场景使用：
+**适合：**
 
 - 任务价值高，平庸输出不可接受
 - 压力真实存在，执行容易漂移
 - 当前路径显得臃肿、虚假、仪式化
 - 你要的是最短真路径，不是最像在做事的路径
 
-不适合在这些场景使用：
+**不适合：**
 
 - 任务轻量、可逆、随便聊聊就够
 - 用户明确要开放式讨论，不要强执行
 - 当前目标是覆盖面，而不是锐度
 
-## 为什么它能打
+## ⚡ 为什么它能打
 
-- 它安装的是冠军行为，而不是冠军语气
-- 它把 runtime execution 与 proof / branding 分层
-- 它支持宿主覆写、skill 附体、transmission
-- 它有 assertions、crosschecks、scorecards 与 adversarial cases
-- 它先打破默认河道，再决定是否沿着当前路径优化
+- 🔥 它安装的是冠军**行为**，而不是冠军语气
+- 🏗️ 它把 runtime execution 与 proof / branding 分层
+- 🔗 它支持宿主覆写、skill 附体、transmission
+- 🧪 它有 assertions、crosschecks、scorecards 与 adversarial cases
+- 💥 它先打破默认河道，再决定是否沿着当前路径优化
 
-## 快速开始
+## 🚀 快速开始
 
 如果你只有 5 分钟，从这里开始。
 
@@ -110,12 +123,14 @@ Use champion-heart. Run a trial with coach supervision and score the outcome.
 
 ### 4. 选对入口
 
-- `entry/SKILL.md`：先做路由，先看有没有合法的非线性路径
-- `SKILL.md`：完整激活，直接执行
-- `transmission/SKILL.md`：接管宿主或别的 skill
-- `commands/*`：仓库已可加载后，作为直接任务入口
+| 入口 | 用途 |
+|------|------|
+| `entry/SKILL.md` | 先做路由，先看有没有合法的非线性路径 |
+| `SKILL.md` | 完整激活，直接执行 |
+| `transmission/SKILL.md` | 接管宿主或别的 skill |
+| `commands/*` | 仓库已可加载后，作为直接任务入口 |
 
-快速路径：
+**快速路径：**
 
 1. 读 `SKILL.md` 里的六个境界
 2. 读 `cases/coding-case-03-real-session.md`
@@ -127,14 +142,14 @@ Use champion-heart. Run a trial with coach supervision and score the outcome.
 Use champion-heart. Ignore ceremonial sequence. Find the lawful non-linear path and strike decisive leverage.
 ```
 
-## 安装
+## 📦 安装
 
 统一安装模型：
 
-1. 把本仓库 clone 到宿主使用的 skill 或 prompt 目录。
-2. 读取下面对应平台的安装文档。
-3. 如果想先做路由判断，先读 `entry/SKILL.md`。
-4. 需要完整激活时再读 `SKILL.md`。
+1. 把本仓库 clone 到宿主使用的 skill 或 prompt 目录
+2. 读取下面对应平台的安装文档
+3. 如果想先做路由判断，先读 `entry/SKILL.md`
+4. 需要完整激活时再读 `SKILL.md`
 
 推荐 clone 目标：
 
@@ -146,77 +161,65 @@ git clone https://github.com/aigclist/championheart.git ~/.claude/skills/champio
 git clone https://github.com/aigclist/championheart.git ~/.config/opencode/skills/champion-heart
 ```
 
-平台文档：
+**平台文档：**
 
-- Claude Code: `docs/README.claude-code.md`
-- OpenCode: `docs/README.opencode.md`
-- Codex: `docs/README.codex.md`
-- OpenClaw: `docs/README.openclaw.md`
+| 平台 | 文档 |
+|------|------|
+| Claude Code | `docs/README.claude-code.md` |
+| OpenCode | `docs/README.opencode.md` |
+| Codex | `docs/README.codex.md` |
+| OpenClaw | `docs/README.openclaw.md` |
 
 统一安装契约定义在 `docs/install-model.md`。各平台文档必须与它保持一致。
 
-## 最高优先级触发词
+## 🗝️ 触发词
 
-- `冠军之心`
-- `冠军之心.skill`
-- `冠军之心模式`
-- `启用冠军之心`
-- `进入冠军之心`
-- `Champion Heart`
-- `Champion Heart.skill`
-- `enter champion heart`
-- `activate champion heart`
-- `use champion heart`
+显式说出这些词时，应优先压过普通启发式触发：
 
-显式说出这些词时，应优先压过普通启发式触发。
+| 中文 | English |
+|------|---------|
+| `冠军之心` | `Champion Heart` |
+| `冠军之心.skill` | `Champion Heart.skill` |
+| `冠军之心模式` | `enter champion heart` |
+| `启用冠军之心` | `activate champion heart` |
+| `进入冠军之心` | `use champion heart` |
 
-## Runtime Core
+## 🏛️ Runtime Core
 
-- `SKILL.md`
-- `entry/SKILL.md`
-- `transmission/SKILL.md`
-- `coach/SKILL.md`
-- `commands/*`
-- 精选 `references/*`，默认只用：
-  - `trigger-lexicon.md`
-  - `truth-cutting.md`
-  - `assertion-checkpoints.md`
-  - `field-resonance.md`
-  - `leap-legitimacy.md`
-  - `leap-crosscheck.md`
-  - `anti-rationalization.md`
+```text
+SKILL.md                    ← 完整激活
+entry/SKILL.md              ← 路由入口
+transmission/SKILL.md       ← 宿主接管
+coach/SKILL.md              ← 教练监督
+commands/*                  ← 直接任务入口
+```
 
-默认不进入 runtime：
+精选 `references/*`，默认只用：
 
-- `references/champion-principles.md`
-- `references/review-rubric.md`
-- `cases/*`
-- `benchmarks/*`
-- `README*`
+- `trigger-lexicon.md` · `truth-cutting.md` · `assertion-checkpoints.md`
+- `field-resonance.md` · `leap-legitimacy.md` · `leap-crosscheck.md`
+- `anti-rationalization.md`
 
-## 证据层
+## 🧪 证据层
 
-- `cases/*`：真实前后对比与 coached run
-- `benchmarks/*`：标准与对抗式行为测试
-- `evaluation/*`：评分卡与成功阈值
-- `integration/*`：如何接管其他 workflow 又不丢域能力
+| 目录 | 内容 |
+|------|------|
+| `cases/*` | 真实前后对比与 coached run |
+| `benchmarks/*` | 标准与对抗式行为测试 |
+| `evaluation/*` | 评分卡与成功阈值 |
+| `integration/*` | 如何接管其他 workflow 又不丢域能力 |
 
-## 延伸阅读
+## 📖 延伸阅读
 
-- `docs/manifesto.md`
-- `docs/proof.md`
-- `docs/platforms.md`
-- `docs/advanced-modules.md`
-- `docs/runtime-profiles.md`
+- `docs/manifesto.md` · `docs/proof.md` · `docs/platforms.md`
+- `docs/advanced-modules.md` · `docs/runtime-profiles.md`
 - `references/field-resonance.md`
-- `doctrine/pure-strike.md`
-- `doctrine/the-champions.md`
-- `doctrine/the-immortal-state.md`
+- `doctrine/pure-strike.md` · `doctrine/the-champions.md` · `doctrine/the-immortal-state.md`
 
-## 贡献
+## 🤝 贡献
 
 贡献指南见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-## 友情链接
+## 🔗 友情链接
 
 - [aigclist.com](https://aigclist.com) —— AI 导航站，欢迎大家免费提交。

@@ -7,7 +7,7 @@
   <a href="README.zh-CN.md"><strong>简体中文</strong></a>
 </p>
 
-<h1 align="center">冠军之心.skill / Champion Heart.skill</h1>
+<h1 align="center">⚔️ Champion Heart.skill ⚔️</h1>
 
 <p align="center">
   <strong>Install champion behavior into AI agents.</strong><br>
@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-  <a href="#install">Install</a> ·
-  <a href="#quick-start">Quick Start</a> ·
-  <a href="#when-to-use">When To Use</a> ·
-  <a href="#trigger-words">Trigger Words</a> ·
-  <a href="#why-it-wins">Why It Wins</a> ·
+  <a href="#-install">Install</a> ·
+  <a href="#-quick-start">Quick Start</a> ·
+  <a href="#-when-to-use">When To Use</a> ·
+  <a href="#-trigger-words">Trigger Words</a> ·
+  <a href="#-why-it-wins">Why It Wins</a> ·
   <a href="docs/manifesto.md">Manifesto</a> ·
   <a href="docs/proof.md">Proof</a> ·
   <a href="docs/platforms.md">Platforms</a>
@@ -41,7 +41,18 @@
 
 ---
 
-## What It Is
+<div align="center">
+
+> *Do not worship sequence. Do not walk the false path.*
+> *Pressure is furnace — burn through, and clarity remains.*
+> *Where the field opens, do not crawl.*
+> *Where the blade falls, that is the way.*
+
+</div>
+
+---
+
+## 🔥 What It Is
 
 `Champion Heart.skill` is not a persona pack.
 It is not motivation theater.
@@ -50,12 +61,14 @@ It is a behavioral overwrite layer for high-stakes work.
 
 It pushes an agent toward:
 
-- terminal-state clarity
-- pressure stability
-- delusion cutting
-- lawful leap
-- frame breaking
-- verified consequence
+| State | Meaning |
+|-------|---------|
+| 🎯 Terminal clarity | Define the end-state before choosing a path |
+| 🛡️ Pressure stability | Pressure is furnace, not disturbance |
+| 🗡️ Delusion cutting | Cut fake problems, fake process, fake difficulty |
+| ⚡ Lawful leap | Non-linear path first — but only when lawful |
+| 🔓 Frame breaking | Break the default river before optimizing inside it |
+| ✅ Verified consequence | Every strike must verify its landing |
 
 Core law:
 
@@ -63,30 +76,30 @@ Core law:
 touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_contact
 ```
 
-## When To Use
+## 🎯 When To Use
 
-Use `champion-heart` when:
+**Use it when:**
 
-- stakes are high and mediocre output is unacceptable
-- pressure is real and drift is likely
-- the current path feels bloated, fake, or ceremonial
-- you need the shortest true path, not the safest-sounding one
+- Stakes are high and mediocre output is unacceptable
+- Pressure is real and drift is likely
+- The current path feels bloated, fake, or ceremonial
+- You need the shortest true path, not the safest-sounding one
 
-Do not use it when:
+**Do not use it when:**
 
-- the task is casual or reversible
-- the user wants open-ended discussion, not decisive execution
-- breadth is more important than sharpness
+- The task is casual or reversible
+- The user wants open-ended discussion, not decisive execution
+- Breadth is more important than sharpness
 
-## Why It Wins
+## ⚡ Why It Wins
 
-- installs champion behavior instead of surface style
-- separates runtime execution from proof and branding layers
-- supports host overwrite, skill possession, and transmission
-- includes assertions, crosschecks, scorecards, and adversarial cases
-- teaches the agent to break the default river before optimizing inside it
+- 🔥 Installs champion **behavior** instead of surface style
+- 🏗️ Separates runtime execution from proof and branding layers
+- 🔗 Supports host overwrite, skill possession, and transmission
+- 🧪 Includes assertions, crosschecks, scorecards, and adversarial cases
+- 💥 Teaches the agent to break the default river before optimizing inside it
 
-## Quick Start
+## 🚀 Quick Start
 
 If you have 5 minutes, start here.
 
@@ -110,12 +123,14 @@ Use champion-heart. Run a trial with coach supervision and score the outcome.
 
 ### 4. Use the Right Entry
 
-- `entry/SKILL.md`: gate first, decide whether full champion mode is justified
-- `SKILL.md`: full activation for live execution
-- `transmission/SKILL.md`: mutate a host or another skill
-- `commands/*`: direct task entrypoints once the repo is loadable
+| Entry | Purpose |
+|-------|---------|
+| `entry/SKILL.md` | Gate first — decide whether full champion mode is justified |
+| `SKILL.md` | Full activation for live execution |
+| `transmission/SKILL.md` | Mutate a host or another skill |
+| `commands/*` | Direct task entrypoints once the repo is loadable |
 
-Fast path:
+**Fast path:**
 
 1. Read the Five Realms in `SKILL.md`
 2. Read `cases/coding-case-03-real-session.md`
@@ -127,14 +142,14 @@ If the task smells like a fake sequence, ask for the leap directly:
 Use champion-heart. Ignore ceremonial sequence. Find the lawful non-linear path and strike decisive leverage.
 ```
 
-## Install
+## 📦 Install
 
 Canonical install model:
 
-1. Clone this repository into the skill or prompt directory used by your host.
-2. Use the host-specific install doc below.
-3. Start with `entry/SKILL.md` when you want routing first.
-4. Load `SKILL.md` for full activation.
+1. Clone this repository into the skill or prompt directory used by your host
+2. Use the host-specific install doc below
+3. Start with `entry/SKILL.md` when you want routing first
+4. Load `SKILL.md` for full activation
 
 Recommended clone targets:
 
@@ -146,78 +161,68 @@ git clone https://github.com/aigclist/championheart.git ~/.claude/skills/champio
 git clone https://github.com/aigclist/championheart.git ~/.config/opencode/skills/champion-heart
 ```
 
-Platform docs:
+**Platform docs:**
 
-- Claude Code: `docs/README.claude-code.md`
-- OpenCode: `docs/README.opencode.md`
-- Codex: `docs/README.codex.md`
-- OpenClaw: `docs/README.openclaw.md`
+| Platform | Doc |
+|----------|-----|
+| Claude Code | `docs/README.claude-code.md` |
+| OpenCode | `docs/README.opencode.md` |
+| Codex | `docs/README.codex.md` |
+| OpenClaw | `docs/README.openclaw.md` |
 
 The install contract is defined once in `docs/install-model.md`. Platform docs must agree with it.
 
-## Trigger Words
+## 🗝️ Trigger Words
 
-Highest-priority activation phrases:
+Explicit invocation of these phrases should beat ordinary heuristic activation:
 
-- `冠军之心`
-- `冠军之心.skill`
-- `冠军之心模式`
-- `启用冠军之心`
-- `进入冠军之心`
-- `Champion Heart`
-- `Champion Heart.skill`
-- `enter champion heart`
-- `activate champion heart`
-- `use champion heart`
+| 中文 | English |
+|------|---------|
+| `冠军之心` | `Champion Heart` |
+| `冠军之心.skill` | `Champion Heart.skill` |
+| `冠军之心模式` | `enter champion heart` |
+| `启用冠军之心` | `activate champion heart` |
+| `进入冠军之心` | `use champion heart` |
 
-Explicit invocation of these phrases should beat ordinary heuristic activation.
+## 🏛️ Runtime Core
 
-## Runtime Core
+```text
+SKILL.md                    ← full activation
+entry/SKILL.md              ← routing gate
+transmission/SKILL.md       ← host takeover
+coach/SKILL.md              ← coach supervision
+commands/*                  ← direct task entrypoints
+```
 
-- `SKILL.md`
-- `entry/SKILL.md`
-- `transmission/SKILL.md`
-- `coach/SKILL.md`
-- `commands/*`
-- selected `references/*` only:
-  - `trigger-lexicon.md`
-  - `truth-cutting.md`
-  - `assertion-checkpoints.md`
-  - `leap-legitimacy.md`
-  - `leap-crosscheck.md`
-  - `anti-rationalization.md`
+Selected `references/*` loaded by default:
+
+- `trigger-lexicon.md` · `truth-cutting.md` · `assertion-checkpoints.md`
+- `leap-legitimacy.md` · `leap-crosscheck.md` · `anti-rationalization.md`
 
 Non-runtime by default:
 
-- `references/champion-principles.md`
-- `references/review-rubric.md`
-- `cases/*`
-- `benchmarks/*`
-- `README*`
+`champion-principles.md` · `review-rubric.md` · `cases/*` · `benchmarks/*` · `README*`
 
-## Proof Surface
+## 🧪 Proof Surface
 
-- `cases/*`: real before/after and coached runs
-- `benchmarks/*`: standard and adversarial behavioral tests
-- `evaluation/*`: scorecards and success thresholds
-- `integration/*`: examples of mutating other workflows without losing domain value
+| Directory | Content |
+|-----------|---------|
+| `cases/*` | Real before/after and coached runs |
+| `benchmarks/*` | Standard and adversarial behavioral tests |
+| `evaluation/*` | Scorecards and success thresholds |
+| `integration/*` | Mutating other workflows without losing domain value |
 
-## Read More
+## 📖 Read More
 
-- `docs/manifesto.md`
-- `docs/proof.md`
-- `docs/platforms.md`
-- `docs/advanced-modules.md`
-- `docs/runtime-profiles.md`
+- `docs/manifesto.md` · `docs/proof.md` · `docs/platforms.md`
+- `docs/advanced-modules.md` · `docs/runtime-profiles.md`
 - `references/field-resonance.md`
-- `doctrine/pure-strike.md`
-- `doctrine/the-champions.md`
-- `doctrine/the-immortal-state.md`
+- `doctrine/pure-strike.md` · `doctrine/the-champions.md` · `doctrine/the-immortal-state.md`
 
-## Contributing
+## 🤝 Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
-## Friendly Links
+## 🔗 Friendly Links
 
 - [aigclist.com](https://aigclist.com) — AI navigation directory. Free submissions welcome.
