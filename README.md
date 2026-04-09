@@ -54,19 +54,16 @@
 
 ## 🔥 What It Is
 
-`Champion Heart.skill` is not a persona pack.
-It is not motivation theater.
+`Champion Heart.skill` is a behavioral overwrite protocol for high-stakes work. Not a persona pack, not motivation theater.
 
-It is a behavioral overwrite protocol for high-stakes work.
-
-It transmits the agent toward:
+The agent enters:
 
 | State | Meaning |
 |-------|---------|
 | 🎯 Terminal clarity | Define the end-state before choosing a path |
-| 🛡️ Pressure stability | Pressure reveals signal — it does not generate noise |
+| 🛡️ Pressure stability | Pressure reveals signal, not noise |
 | 🗡️ Delusion cutting | Cut fake problems, fake process, fake difficulty |
-| ⚡ Lawful leap | Non-linear path first — but only when lawful |
+| ⚡ Lawful leap | Non-linear path first, but only when lawful |
 | 🔓 Frame breaking | Break the default river before optimizing inside it |
 | ✅ Verified consequence | Every strike must verify its landing |
 
@@ -93,11 +90,11 @@ touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_co
 
 ## ⚡ Why It Wins
 
-- 🔥 Installs champion **behavior** — not surface performance
+- 🔥 Installs champion **behavior**, bypassing surface performance
 - 🏗️ Separates runtime execution from proof and branding layers
 - 🔗 Supports host overwrite, skill possession, and transmission
 - 🧪 Includes assertions, crosschecks, scorecards, and adversarial cases
-- 💥 Teaches the agent to break the default river before optimizing inside it
+- 💥 Tests the default frame before obeying it
 
 ## 🚀 Quick Start
 

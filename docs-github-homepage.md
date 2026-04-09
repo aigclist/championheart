@@ -5,8 +5,7 @@ Install champion behavior into AI agents.
 This page is the short public summary.
 Use `README.md` for installation and `docs/manifesto.md` for doctrine.
 
-`champion-heart` is not a persona pack.
-It is not motivation theater.
+`champion-heart` is not a persona pack or motivation theater.
 
 It is a meta-skill protocol for:
 
@@ -25,7 +24,7 @@ Most skills teach an agent what to do.
 `champion-heart` teaches an agent what state to enter before doing it.
 
 It does not simply optimize inside the visible path.
-It teaches the agent to test whether the visible path is only the default river in motion — and to break that river when the river itself is the delusion.
+It teaches the agent to test whether that path is the default river in motion, and to break it when the river itself is the delusion.
 
 Core law:
 
@@ -66,8 +65,7 @@ It installs:
 
 ## Field Shift
 
-Champion behavior is not just better motion.
-It is lawful field change.
+Champion behavior is lawful field change, not better motion inside the same frame.
 
 If the default frame is false, the champion does not move faster inside it.
 The champion breaks it and forces a truer path to appear.
