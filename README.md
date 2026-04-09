@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>Install champion behavior into AI agents.</strong><br>
-  <sub>A meta-skill harness for truth contact, pressure stability, lawful leap, and high-consequence execution.</sub>
+  <sub>A meta-skill harness for truth communion, pressure stability, lawful leap, and high-consequence execution.</sub>
 </p>
 
 <p align="center">
@@ -43,10 +43,10 @@
 
 <div align="center">
 
-> *Do not worship sequence. Do not walk the false path.*
-> *Pressure is furnace — burn through, and clarity remains.*
-> *Where the field opens, do not crawl.*
-> *Where the blade falls, that is the way.*
+> *Abjure the false sequence. Renounce the ceremonial path.*
+> *Signal endures what noise cannot.*
+> *Define the terminal state. All else is preamble.*
+> *Verification is the only rite that confirms.*
 
 </div>
 
@@ -57,14 +57,14 @@
 `Champion Heart.skill` is not a persona pack.
 It is not motivation theater.
 
-It is a behavioral overwrite layer for high-stakes work.
+It is a behavioral overwrite protocol for high-stakes work.
 
-It pushes an agent toward:
+It transmits the agent toward:
 
 | State | Meaning |
 |-------|---------|
 | 🎯 Terminal clarity | Define the end-state before choosing a path |
-| 🛡️ Pressure stability | Pressure is furnace, not disturbance |
+| 🛡️ Pressure stability | Pressure reveals signal — it does not generate noise |
 | 🗡️ Delusion cutting | Cut fake problems, fake process, fake difficulty |
 | ⚡ Lawful leap | Non-linear path first — but only when lawful |
 | 🔓 Frame breaking | Break the default river before optimizing inside it |
@@ -93,7 +93,7 @@ touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_co
 
 ## ⚡ Why It Wins
 
-- 🔥 Installs champion **behavior** instead of surface style
+- 🔥 Installs champion **behavior** — not surface performance
 - 🏗️ Separates runtime execution from proof and branding layers
 - 🔗 Supports host overwrite, skill possession, and transmission
 - 🧪 Includes assertions, crosschecks, scorecards, and adversarial cases

@@ -8,7 +8,7 @@ Use `README.md` for installation and `docs/manifesto.md` for doctrine.
 `champion-heart` is not a persona pack.
 It is not motivation theater.
 
-It is a meta-skill harness for:
+It is a meta-skill protocol for:
 
 - truth contact
 - terminal-state clarity
@@ -25,7 +25,7 @@ Most skills teach an agent what to do.
 `champion-heart` teaches an agent what state to enter before doing it.
 
 It does not simply optimize inside the visible path.
-It teaches the agent to test whether the visible path is only the default river in motion.
+It teaches the agent to test whether the visible path is only the default river in motion — and to break that river when the river itself is the delusion.
 
 Core law:
 
@@ -60,7 +60,7 @@ It installs:
 - terminal-state focus
 - frame exposure before obedient movement
 - decisive leverage before decorative process
-- verification discipline
+- verification as the only acceptable confirmation
 - mutation of host behavior, not tone only
 - evidence-backed standards
 
