@@ -14,7 +14,7 @@ license: MIT
 compatibility: agent-skills-standard
 metadata:
   author: "OpenCode"
-  version: "0.8.0"
+  version: "0.9.0"
   tags: [coach, correction, review, discipline, trials]
 ---
 
@@ -78,7 +78,7 @@ If `rerun_count > 3`, stop the loop and escalate.
 Format:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 failure: ...
 residue: ego | fear | haste | vanity | theater | blind_leap
 correction: ...
@@ -88,7 +88,7 @@ rerun_now: yes
 Escalation format:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 failure: ...
 residue: ...
 correction: escalation

@@ -23,7 +23,7 @@ compatibility: agent-skills-standard
 metadata:
   category: mindset
   author: "OpenCode"
-  version: "0.8.0"
+  version: "0.9.0"
   tags: [mindset, execution, illusion-cutting, strategy, truth]
 ---
 
@@ -332,7 +332,7 @@ See `docs/advanced-modules.md` for non-default modules and discovery paths.
 When useful, structure response as:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 terminal_state: ...
 decisive_leverage: ...
 hidden_frame: ...

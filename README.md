@@ -11,11 +11,11 @@
 
 <p align="center">
   <strong>Install champion behavior into AI agents.</strong><br>
-  <sub>A meta-skill harness for illusion cutting, truth contact, lawful leap, and champion action without symbolic guarantee.</sub>
+  <sub>An AI meta-skill for illusion cutting, truth contact, false-necessity detection, and lawful decisive action without symbolic guarantee.</sub>
 </p>
 
 <p align="center">
-  <img alt="version" src="https://img.shields.io/badge/version-0.8.0-black">
+  <img alt="version" src="https://img.shields.io/badge/version-0.9.0-black">
   <img alt="architecture" src="https://img.shields.io/badge/architecture-meta--skill-black">
   <img alt="evidence" src="https://img.shields.io/badge/proof-cases%20%2B%20benchmarks-black">
   <img alt="testing" src="https://img.shields.io/badge/testing-adversarial-black">

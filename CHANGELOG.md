@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.9.0
+
+- Reframed champion-heart around illusion cutting, truth contact, false-necessity detection, and action without symbolic guarantee
+- Demoted pressure and high-stakes framing from core identity to proving-ground language across runtime, doctrine, proof, and integration docs
+- Renamed legacy pressure-oriented files to the new ontology: `distortion-reset`, `exposed-execution`, `guarantee-collapse-meditation`, and `urgency-exposure`
+- Replaced `pressure_integrity` scoring with `guarantee_independence` across templates, evaluation, and case evidence
+- Rewrote public-facing repo descriptions, install guidance, and registry submission copy to match the new philosophical core
+
 ## 0.8.0
 
 - Added LICENSE (MIT) and CONTRIBUTING.md

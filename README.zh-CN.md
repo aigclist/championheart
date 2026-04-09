@@ -11,11 +11,11 @@
 
 <p align="center">
   <strong>把冠军级行为安装进 AI agent。</strong><br>
-  <sub>一个面向幻觉切割、真实接触、合法跃迁与无担保行动的 meta-skill harness。</sub>
+  <sub>一个面向幻觉切割、真实接触、假必然性识别与无担保决断行动的 AI meta-skill。</sub>
 </p>
 
 <p align="center">
-  <img alt="version" src="https://img.shields.io/badge/version-0.8.0-black">
+  <img alt="version" src="https://img.shields.io/badge/version-0.9.0-black">
   <img alt="architecture" src="https://img.shields.io/badge/architecture-meta--skill-black">
   <img alt="proof" src="https://img.shields.io/badge/证据-cases%20%2B%20benchmarks-black">
   <img alt="testing" src="https://img.shields.io/badge/测试-adversarial-black">

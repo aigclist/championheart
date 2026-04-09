@@ -27,7 +27,7 @@ clawhub login
 clawhub publish "D:\Cloudflare Projects\skills\champion-heart" \
   --slug champion-heart \
   --name "Champion Heart" \
-  --version 0.8.0 \
+  --version 0.9.0 \
   --changelog "Initial public release: behavioral overwrite layer for illusion cutting, truth contact, and lawful decisive action" \
   --tags latest
 

@@ -20,7 +20,7 @@ Then execute this sequence:
 Use this exact output structure:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 arena: ...
 objective: ...
 run_output:
@@ -33,7 +33,7 @@ correction: ...
 rerun_now: yes | no
 
 scorecard:
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 run_id: ...
 scenario: ...
 mode: trial

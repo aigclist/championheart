@@ -17,7 +17,7 @@ license: MIT
 compatibility: agent-skills-standard
 metadata:
   author: "OpenCode"
-  version: "0.8.0"
+  version: "0.9.0"
   tags: [router, mindset, truth, execution]
 ---
 
@@ -69,7 +69,7 @@ Do not load full `champion-heart` when:
 When invoked, output only:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 mode: full_champion | normal_execution
 why: ...
 terminal_signal: ...

@@ -12,7 +12,7 @@ license: MIT
 compatibility: agent-skills-standard
 metadata:
   author: "OpenCode"
-  version: "0.8.0"
+  version: "0.9.0"
   tags: [meta-skill, transmission, overwrite, possession, mutation]
 ---
 
@@ -67,7 +67,7 @@ Use when both host AI and host skill require rewrite.
 When active, output this control block before task execution:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 transmission_mode: host_overwrite_only | skill_possession_only | full_transmission
 host_target: ...
 host_terminal_state: ...

@@ -1,7 +1,7 @@
 # Postmortem
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 terminal_state: 
 actual_landing: 
 largest_delusion: 

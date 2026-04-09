@@ -1,11 +1,12 @@
 # champion-heart
 
-Install champion behavior into AI agents.
+Install illusion-cutting champion behavior into AI agents.
 
 This page is the short public summary.
 Use `README.md` for installation and `docs/manifesto.md` for doctrine.
 
 `champion-heart` is not a persona pack or motivation theater.
+It is an AI meta-skill for truth contact, false-necessity cutting, and lawful decisive action.
 
 It is a meta-skill protocol for:
 

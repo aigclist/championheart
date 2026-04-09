@@ -9,7 +9,7 @@ Read `../references/review-rubric.md`.
 Then output only:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 state: champion | contender | common | corrupted
 score: X/10
 largest_delusion: ...

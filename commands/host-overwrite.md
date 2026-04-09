@@ -9,7 +9,7 @@ Read `../references/assertion-checkpoints.md`.
 Then output only:
 
 ```text
-champion_heart_version: 0.8.0
+champion_heart_version: 0.9.0
 host_mode: overwritten
 terminal_state: ...
 priority_rewrite: ...
