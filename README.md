@@ -141,14 +141,17 @@ Use champion-heart. Ignore ceremonial sequence. Find the lawful non-linear path 
 
 ## 📦 Install
 
-Canonical install model:
+One-command install (recommended):
 
-1. Clone this repository into the skill or prompt directory used by your host
-2. Use the host-specific install doc below
-3. Start with `entry/SKILL.md` when you want routing first
-4. Load `SKILL.md` for full activation
+```bash
+# Universal — works with 45+ agents (Claude Code, OpenCode, Cursor, Codex, Gemini CLI…)
+npx skills add aigclist/championheart
 
-Recommended clone targets:
+# ClawHub (OpenClaw ecosystem)
+clawhub install champion-heart
+```
+
+Manual install:
 
 ```bash
 # Claude Code
@@ -157,6 +160,11 @@ git clone https://github.com/aigclist/championheart.git ~/.claude/skills/champio
 # OpenCode
 git clone https://github.com/aigclist/championheart.git ~/.config/opencode/skills/champion-heart
 ```
+
+Then:
+1. Use the host-specific install doc below
+2. Start with `entry/SKILL.md` when you want routing first
+3. Load `SKILL.md` for full activation
 
 **Platform docs:**
 

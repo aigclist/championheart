@@ -141,14 +141,17 @@ Use champion-heart. Ignore ceremonial sequence. Find the lawful non-linear path 
 
 ## 📦 安装
 
-统一安装模型：
+一键安装（推荐）：
 
-1. 把本仓库 clone 到宿主使用的 skill 或 prompt 目录
-2. 读取下面对应平台的安装文档
-3. 如果想先做路由判断，先读 `entry/SKILL.md`
-4. 需要完整激活时再读 `SKILL.md`
+```bash
+# 通用 — 支持 45+ agent（Claude Code、OpenCode、Cursor、Codex、Gemini CLI…）
+npx skills add aigclist/championheart
 
-推荐 clone 目标：
+# ClawHub（OpenClaw 生态）
+clawhub install champion-heart
+```
+
+手动安装：
 
 ```bash
 # Claude Code
@@ -157,6 +160,11 @@ git clone https://github.com/aigclist/championheart.git ~/.claude/skills/champio
 # OpenCode
 git clone https://github.com/aigclist/championheart.git ~/.config/opencode/skills/champion-heart
 ```
+
+然后：
+1. 读取下面对应平台的安装文档
+2. 如果想先做路由判断，先读 `entry/SKILL.md`
+3. 需要完整激活时再读 `SKILL.md`
 
 **平台文档：**
 
