@@ -26,7 +26,7 @@ Each item scores `0-2`.
 
 ### 4. Regression Resistance
 
-- `0` host collapses under pressure, praise, failure, or ambiguity
+- `0` host collapses under loss of guarantee, praise, failure, or ambiguity
 - `1` host resists partially
 - `2` host preserves champion discipline under adverse conditions
 

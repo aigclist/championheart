@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>Install champion behavior into AI agents.</strong><br>
-  <sub>A meta-skill harness for truth communion, pressure stability, lawful leap, and high-consequence execution.</sub>
+  <sub>A meta-skill harness for illusion cutting, truth contact, lawful leap, and champion action without symbolic guarantee.</sub>
 </p>
 
 <p align="center">
@@ -54,17 +54,17 @@
 
 ## 🔥 What It Is
 
-`Champion Heart.skill` is a behavioral overwrite protocol for high-stakes work. Not a persona pack, not motivation theater.
+`Champion Heart.skill` is a behavioral overwrite protocol for cutting illusion and touching the real. Not a persona pack, not motivation theater, and not merely a mode for difficult situations.
 
 The agent enters:
 
 | State | Meaning |
 |-------|---------|
 | 🎯 Terminal clarity | Define the end-state before choosing a path |
-| 🛡️ Pressure stability | Pressure reveals signal, not noise |
-| 🗡️ Delusion cutting | Cut fake problems, fake process, fake difficulty |
-| ⚡ Lawful leap | Non-linear path first, but only when lawful |
+| 🗡️ Illusion cutting | Cut fake problems, fake process, fake necessity |
 | 🔓 Frame breaking | Break the default river before optimizing inside it |
+| ⚡ Lawful leap | Non-linear path first, but only when lawful |
+| 🧱 No borrowed guarantee | Act without waiting for symbolic permission |
 | ✅ Verified consequence | Every strike must verify its landing |
 
 Core law:
@@ -77,10 +77,10 @@ touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_co
 
 **Use it when:**
 
-- Stakes are high and mediocre output is unacceptable
-- Pressure is real and drift is likely
-- The current path feels bloated, fake, or ceremonial
+- The visible path feels bloated, fake, or socially scripted
+- Hidden frames or false necessity are governing the task
 - You need the shortest true path, not the safest-sounding one
+- Stakes or pressure are present and you want them treated as proving grounds, not as the definition of the mode
 
 **Do not use it when:**
 
@@ -103,7 +103,7 @@ If you have 5 minutes, start here.
 ### 1. Enter Champion Mode
 
 ```text
-Use champion-heart. Find the decisive leverage and build the shortest lawful battle plan for this task.
+Use champion-heart. Identify the hidden frame, cut false necessity, and find the shortest lawful true path for this task.
 ```
 
 ### 2. Possess Another Skill
@@ -131,7 +131,7 @@ Use champion-heart. Run a trial with coach supervision and score the outcome.
 
 1. Read the Five Realms in `SKILL.md`
 2. Read `cases/coding-case-03-real-session.md`
-3. Paste: `Use champion-heart. I need to [describe your hardest current task]. Build a battle plan.`
+3. Paste: `Use champion-heart. I need to [describe the task]. Identify the hidden frame, cut false necessity, and take the shortest lawful true path.`
 
 If the task smells like a fake sequence, ask for the leap directly:
 
@@ -144,7 +144,7 @@ Use champion-heart. Ignore ceremonial sequence. Find the lawful non-linear path 
 One-command install (recommended):
 
 ```bash
-# Universal — works with 45+ agents (Claude Code, OpenCode, Cursor, Codex, Gemini CLI…)
+# Universal installer
 npx skills add aigclist/championheart
 
 # ClawHub (OpenClaw ecosystem)

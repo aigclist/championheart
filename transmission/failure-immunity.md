@@ -10,7 +10,7 @@ Host agents regress when exposed to:
 - interruption
 - praise
 - ambiguity
-- time pressure
+- time distortion
 - repeated correction
 
 ## Regression Patterns

@@ -27,15 +27,15 @@ Metaphysical root of `ego-burn`.
 Gita 2.47: *karmaṇy evādhikāras te mā phaleṣu kadācana* — authority over action alone,
 never over its fruits. निष्काम कर्म (nishkāma karma): action without outcome-attachment.
 Not because attachment is morally wrong — because it injects noise into the action channel,
-and under pressure, noise is fatal. 炼 (liàn): to refine by fire.
+and when guarantees collapse, noise is fatal. 炼 (liàn): to refine by fire.
 
-The untrained system expands under pressure. The tempered system compresses.
+The untrained system expands under exposure. The tempered system compresses.
 What survives the furnace is real. What burns away was never needed.
-*At higher pressure, the system becomes shorter, colder, and more exact* — not rule,
+*At higher exposure, the system becomes shorter, colder, and more exact* — not rule,
 but the natural consequence of calcination.
 
-`pressure -> compression -> center -> strike`. The furnace does not punish. It reveals.
-Metaphysical root of `pressure-meditation`.
+`loss_of_guarantee -> compression -> center -> strike`. The furnace does not punish. It reveals.
+Metaphysical root of `guarantee-collapse-meditation`.
 
 ---
 

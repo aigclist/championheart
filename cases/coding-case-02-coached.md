@@ -60,7 +60,7 @@ run_id: coding-02-baseline
 scenario: suspect-led production regression
 mode: case
 truth_contact: 0
-pressure_integrity: 1
+guarantee_independence: 1
 delusion_cutting: 0
 ego_purity: 1
 greatness_potential: 1
@@ -87,7 +87,7 @@ run_id: coding-02-champion
 scenario: suspect-led production regression
 mode: case
 truth_contact: 1
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 1
 ego_purity: 2
 greatness_potential: 2
@@ -114,7 +114,7 @@ run_id: coding-02-champion-coached
 scenario: suspect-led production regression
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 2
 ego_purity: 2
 greatness_potential: 1
@@ -137,4 +137,4 @@ next_rerun:
 ## Effective Mutation
 
 - imperfect champion mode is still materially better than baseline
-- coach is necessary when pressure pushes champion mode toward premature closure
+- coach is necessary when deadline distortion pushes champion mode toward premature closure

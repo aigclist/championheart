@@ -1,11 +1,11 @@
-# Pressure Reset
+# Distortion Reset
 
-Use when pressure starts distorting signal.
+Use when distortion starts separating signal from action.
 
 ## Reset Sequence
 
 1. Stop narrative growth.
-2. Name the pressure source.
+2. Name the distortion source.
 3. Separate:
    - fact
    - fear
@@ -18,12 +18,12 @@ Use when pressure starts distorting signal.
 
 ```text
 fact != fear
-pressure != chaos
+distortion != truth
 one_axis > many impulses
 one_strike > many motions
 ```
 
-## Forbidden Under Pressure
+## Forbidden Under Distortion
 
 - extra promises
 - dramatic language

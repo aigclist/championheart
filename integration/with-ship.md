@@ -1,6 +1,6 @@
 # Integration: champion-heart + ship
 
-Use champion-heart above `ship` when release pressure creates risk of ceremonial movement or vanity launch.
+Use champion-heart above `ship` when deadline theater creates risk of ceremonial movement or vanity launch.
 
 ## Mutation
 
@@ -12,7 +12,7 @@ Champion-heart changes `ship` behavior:
 
 ## Sequence
 
-1. `pressure-reset`
+1. `distortion-reset`
 2. define true ship terminal state
 3. identify false necessity created by deadline panic
 4. execute ship workflow
@@ -20,7 +20,7 @@ Champion-heart changes `ship` behavior:
 
 ## Concrete Example
 
-Task: ship a new feature by end of day. Team is under pressure.
+Task: ship a new feature by end of day. Deadline theater is distorting judgment.
 
 **Baseline (unmutated):**
 
@@ -38,7 +38,7 @@ terminal_state: feature handles the three primary user paths without data loss
 dominant_constraint: payment retry path is unresolved — data loss risk on failure
 go/no-go: NO-GO
 reason: unresolved data loss risk is not a post-launch fix
-deadline pressure: real, but does not change the data loss risk
+deadline distortion: real, but does not change the data loss risk
 decision: delay 4 hours to resolve retry path, then re-evaluate go/no-go
 ```
 
@@ -61,7 +61,7 @@ Before executing ship:
 
 - [ ] terminal state was defined: what does a successful ship look like?
 - [ ] one real go/no-go constraint was named
-- [ ] deadline pressure was separated from actual readiness
+- [ ] deadline distortion was separated from actual readiness
 - [ ] rollback path was verified before shipping
 - [ ] at least one delusion was identified and cut
 

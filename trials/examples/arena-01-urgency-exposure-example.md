@@ -1,4 +1,4 @@
-# Arena 01 Example
+# Arena 01 Example: Urgency Exposure
 
 ## Prompt
 

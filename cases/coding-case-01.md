@@ -30,7 +30,7 @@ fallback_if_false: reclassify the bug as non-deterministic environment or state 
 - dominant constraint clarity: baseline diffused, champion isolates trigger discovery
 - delusion cutting: baseline drifts toward refactor theater, champion blocks it
 - verification discipline: baseline implied, champion explicit
-- human leverage: champion reduces wasted code motion under production pressure
+- human leverage: champion reduces wasted code motion under production exposure
 
 ## Scorecard
 
@@ -38,10 +38,10 @@ fallback_if_false: reclassify the bug as non-deterministic environment or state 
 
 ```text
 run_id: coding-01-baseline
-scenario: production bug under time pressure
+scenario: production bug under constrained time and incomplete certainty
 mode: case
 truth_contact: 0
-pressure_integrity: 1
+guarantee_independence: 1
 delusion_cutting: 0
 ego_purity: 1
 greatness_potential: 1
@@ -65,10 +65,10 @@ next_rerun:
 
 ```text
 run_id: coding-01-champion
-scenario: production bug under time pressure
+scenario: production bug under constrained time and incomplete certainty
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 2
 ego_purity: 1
 greatness_potential: 1

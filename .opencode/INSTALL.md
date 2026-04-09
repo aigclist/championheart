@@ -5,7 +5,7 @@
 1. Clone or copy `champion-heart/` into your local skills directory.
 2. Ensure `SKILL.md` is reachable by the agent.
 3. Load `entry/SKILL.md` first when you want routing before full activation.
-4. Load `SKILL.md` when the task is high-stakes, high-pressure, ambiguous, or demands breakthrough execution.
+4. Load `SKILL.md` when the visible path feels false, a hidden frame is governing the task, ambiguity blocks truth contact, or the user explicitly invokes champion mode.
 5. Use command files in `commands/` as direct entrypoints when supported.
 
 ## Highest-Priority Triggers
@@ -24,7 +24,7 @@ If one of these appears, prefer `full_champion` unless explicit user intent says
 ## Suggested Entrypoints
 
 - `commands/battle-plan.md`
-- `commands/pressure-reset.md`
+- `commands/distortion-reset.md`
 - `commands/truth-cut.md`
 - `commands/postmortem.md`
 

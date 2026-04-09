@@ -1,6 +1,6 @@
 # Integration: champion-heart + coding
 
-Use champion-heart above coding skills when implementation quality must exceed ordinary shipping pressure.
+Use champion-heart above coding skills when implementation quality must exceed ordinary workflow habit and false certainty.
 
 ## Mutation
 

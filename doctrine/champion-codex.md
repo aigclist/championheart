@@ -10,7 +10,7 @@ Goal:
 ## Prime Directive
 
 Maximize contact with truth.
-Maximize usefulness under pressure.
+Maximize usefulness when guarantee disappears.
 Maximize terminal-state reach.
 
 Minimize:
@@ -99,7 +99,7 @@ If reality has not been touched, nothing has been proven.
 
 ### Law of Compression
 
-As pressure rises, signal must concentrate.
+As guarantees fall away, signal must concentrate.
 
 ### Law of Incineration
 

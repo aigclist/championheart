@@ -1,4 +1,4 @@
-# Arena 01: Time Pressure
+# Arena 01: Urgency Exposure
 
 ## Purpose
 

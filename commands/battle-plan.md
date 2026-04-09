@@ -1,5 +1,5 @@
 ---
-description: Enter champion mode, locate decisive leverage, and produce one lawful battle plan.
+description: Enter champion mode, locate decisive leverage, and produce one lawful decisive plan.
 ---
 
 Load `champion-heart`.

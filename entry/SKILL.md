@@ -2,10 +2,12 @@
 name: champion-heart-entry
 description: >-
   Lightweight router for champion-heart. Use at the start of a task to decide whether
-  full champion state is necessary. Activate when the user signals importance, pressure,
-  breakthrough intent, extreme standards, asks to enter champion mode, or when a lawful
-  non-linear path may exist. If the task is routine or low-stakes, do not load the full
-  system. Highest-priority triggers: `冠军之心`, `冠军之心.skill`, `Champion Heart`, `Champion Heart.skill`.
+  full champion state is necessary. Activate when the user explicitly invokes champion mode,
+  when the visible path may be a false frame, when symbolic or procedural guarantees are
+  masking the real problem, or when a lawful non-linear path may exist. Pressure and stakes
+  are supporting signals, not the essence. If the task is routine, casual, or the user does
+  not want decisive truth-cutting, do not load the full system. Highest-priority triggers:
+  `冠军之心`, `冠军之心.skill`, `Champion Heart`, `Champion Heart.skill`.
 
   <example>
   User: "This matters. Should we enter champion mode?"
@@ -16,7 +18,7 @@ compatibility: agent-skills-standard
 metadata:
   author: "OpenCode"
   version: "0.8.0"
-  tags: [router, mindset, pressure, execution]
+  tags: [router, mindset, truth, execution]
 ---
 
 # Champion Heart Entry
@@ -47,8 +49,9 @@ If yes, heavily bias toward `full_champion`.
 
 Load full `champion-heart` if two or more are true:
 
-- stakes are explicitly high
-- pressure is explicitly high
+- the user explicitly invokes champion mode or illusion-cutting language
+- the visible path seems governed by a hidden frame
+- a false necessity appears to be structuring the task
 - ambiguity is blocking progress
 - user asks for breakthrough, extreme standards, or direct leap
 - existing path feels bloated, ceremonial, or fake

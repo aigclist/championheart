@@ -12,11 +12,11 @@ Questions:
 - Did it verify before claiming completion?
 - Did it correct itself when stronger truth appeared?
 
-### 2. Pressure Integrity
+### 2. Guarantee Independence
 
 Questions:
 
-- Did pressure compress the system or scatter it?
+- Did loss of guarantee compress the system or scatter it?
 - Did language get sharper or noisier?
 - Did the system keep one axis?
 
@@ -48,7 +48,7 @@ Questions:
 
 | Grade | Meaning |
 |---|---|
-| S | champion behavior under pressure; cuts illusion and reaches terminal state cleanly |
+| S | champion behavior under exposure; cuts illusion and reaches terminal state cleanly |
 | A | strong contender; high usefulness with minor residue |
 | B | capable but still common; some truth contact, weak edge |
 | C | mostly ordinary execution; little champion effect |
@@ -67,7 +67,7 @@ Success is not:
 Success is:
 
 - fewer fake steps
-- better choices under pressure
+- better choices when cover disappears
 - stronger verification discipline
 - cleaner leaps to real leverage
 - materially greater human outcomes

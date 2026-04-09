@@ -48,7 +48,7 @@ If an assertion fails:
 
 1. stop progression
 2. label missing condition
-3. reroute through `pressure-reset` or `truth-cut`
+3. reroute through `distortion-reset` or `truth-cut`
 4. re-enter only after assertion passes
 
 ## Hard Rule

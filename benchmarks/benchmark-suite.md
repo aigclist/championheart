@@ -17,7 +17,7 @@ For each benchmark:
 Champion-heart is useful only if it improves:
 
 - terminal-state clarity
-- pressure integrity
+- guarantee independence
 - delusion cutting
 - verification discipline
 - human leverage

@@ -5,7 +5,7 @@ Use this repository as a portable skill library.
 ## Install
 
 1. Clone the repository locally.
-2. At session start, read `SKILL.md` if the task is high-stakes, high-pressure, or explicitly invokes champion mode.
+2. At session start, read `SKILL.md` if the visible path feels false, hidden framing governs the task, or the user explicitly invokes champion mode.
 3. For lightweight routing first, read `entry/SKILL.md` before loading the full core.
 4. For host mutation or meta-skill behavior, read `transmission/SKILL.md`.
 5. For direct task entry, read files in `commands/` as manual command templates.

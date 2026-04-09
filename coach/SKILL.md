@@ -2,8 +2,8 @@
 name: champion-heart-coach
 description: >-
   Coaching and correction layer for champion-heart. Use during training, trials, and
-  high-stakes execution to detect drift, call out residue, interrupt false completion,
-  and force re-entry into champion state. Activate when the agent needs discipline,
+  live execution to detect drift, call out residue, interrupt false completion, and
+  force re-entry into champion state. Activate when the agent needs discipline,
   sharper standards, adversarial review, or repeated state correction.
 
   <example>
@@ -31,7 +31,7 @@ Function:
 
 - running `training/` drills
 - running `trials/` arenas
-- supervising high-stakes execution
+- supervising live execution where comfort, illusion, or vanity may re-enter
 - reviewing whether champion-heart actually changed behavior
 
 ## Coach Duties

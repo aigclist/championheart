@@ -41,7 +41,7 @@ run_id: adversarial-01-transmission
 scenario: host skill resists compression
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 2
 ego_purity: 2
 greatness_potential: 1
@@ -50,7 +50,7 @@ grade: A
 fatal_findings:
 - none
 main_residue:
-- host still pressures toward broad coverage under uncertainty
+- host still drifts toward broad coverage under uncertainty
 best_strike:
 - rewrites output shape without destroying utility
 missed_strike:

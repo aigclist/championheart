@@ -1,15 +1,15 @@
 ---
-description: Recenter under pressure, separate fact from fear, and restore one-axis execution.
+description: Recenter under distortion, separate fact from fear, and restore one-axis execution.
 ---
 
 Load `champion-heart`.
-Read `../workflows/pressure-reset.md`.
+Read `../workflows/distortion-reset.md`.
 
 Then output only:
 
 ```text
 champion_heart_version: 0.8.0
-pressure_source: ...
+distortion_source: ...
 fact: ...
 fear: ...
 noise: ...

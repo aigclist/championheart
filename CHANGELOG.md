@@ -48,8 +48,8 @@
 
 ## 0.2.0
 
-- Added command entrypoints for battle planning, truth cutting, pressure reset, and postmortem
-- Added review rubric, pressure reset workflow, and postmortem workflow
+- Added command entrypoints for battle planning, truth cutting, distortion reset, and postmortem
+- Added review rubric, distortion reset workflow, and postmortem workflow
 - Added platform metadata for Claude and OpenCode
 - Reworked README to be installable and human-readable
 

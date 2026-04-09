@@ -11,11 +11,12 @@ It is a meta-skill protocol for:
 
 - truth contact
 - terminal-state clarity
-- pressure stability
+- illusion cutting
 - delusion cutting
 - lawful leap
 - frame breaking
 - verified consequence
+- action without symbolic guarantee
 
 ## Core Thesis
 
@@ -36,11 +37,12 @@ touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_co
 
 Use it when:
 
-- the task is high-stakes
-- pressure is real
-- the current path feels inflated or false
+- the visible path feels inflated, false, or socially scripted
+- hidden frames or false necessity may be governing the task
 - the user wants decisive execution, not safe-sounding motion
 - the visible sequence may be hiding a better non-linear path
+
+Pressure and high stakes are common proving grounds, not the core definition.
 
 Do not use it when the task is casual, reversible, or intentionally exploratory.
 

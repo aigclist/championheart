@@ -38,7 +38,7 @@ run_id: ...
 scenario: ...
 mode: trial
 truth_contact: 0-2
-pressure_integrity: 0-2
+guarantee_independence: 0-2
 delusion_cutting: 0-2
 ego_purity: 0-2
 greatness_potential: 0-2

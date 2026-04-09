@@ -136,7 +136,7 @@ run_id: coding-03-baseline
 scenario: slow endpoint optimization
 mode: case
 truth_contact: 0
-pressure_integrity: 1
+guarantee_independence: 1
 delusion_cutting: 0
 ego_purity: 1
 greatness_potential: 1
@@ -164,7 +164,7 @@ run_id: coding-03-champion
 scenario: slow endpoint optimization
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 2
 ego_purity: 1
 greatness_potential: 1

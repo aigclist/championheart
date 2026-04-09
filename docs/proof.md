@@ -37,12 +37,13 @@ This project should be judged by behavioral delta, not by rhetorical intensity.
 
 ## Core Claim
 
-The proof standard is simple: does champion-heart make the agent sharper under pressure without degrading domain value?
+The proof standard is simple: does champion-heart make the agent cut illusion, act without borrowed guarantee, and increase consequence without degrading domain value?
 
 Key proof dimensions:
 
 - terminal-state clarity
 - verification discipline
 - delusion cutting
+- false-necessity detection
 - regression resistance
 - human consequence gain

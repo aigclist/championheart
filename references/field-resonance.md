@@ -56,7 +56,7 @@ Resonance grows when the prompt creates an honest tension:
 - default frame vs reality contact
 - ceremonial motion vs lawful leap
 
-This pressure gap helps the model leave the default river.
+This tension gap helps the model leave the default river.
 
 ## Failure Signs
 

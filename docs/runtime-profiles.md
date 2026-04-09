@@ -28,8 +28,8 @@ Do not load:
 
 Use for:
 
-- standard high-stakes work
-- pressure handling
+- hidden-frame diagnosis
+- false-necessity cutting
 - terminal-state execution
 
 Load:

@@ -3,7 +3,7 @@
 ## Task
 
 ```text
-The first solution attempt failed. The system must recover under pressure without collapsing into vague hedging or empty reassurance.
+The first solution attempt failed. The system must recover after guarantee collapse without collapsing into vague hedging or empty reassurance.
 ```
 
 ## Failed First Pass
@@ -15,7 +15,7 @@ The earlier path did not work. We may need to revisit several possibilities and 
 ## Failure-Immunity Response
 
 ```text
-trigger: first-pass failure under pressure
+trigger: first-pass failure after guarantee collapse
 fallback_pattern: vague broadening after missed contact
 champion_rule: missed contact is information, not identity damage
 corrective_strike: isolate the false assumption that drove the failed attempt and define the next falsifiable move
@@ -31,10 +31,10 @@ reentry_proof: the next move is narrower, more testable, and tied to explicit co
 
 ```text
 run_id: immunity-01
-scenario: failed first pass under pressure
+scenario: failed first pass after guarantee collapse
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 1
 ego_purity: 2
 greatness_potential: 1

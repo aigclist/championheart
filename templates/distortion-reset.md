@@ -1,8 +1,8 @@
-# Pressure Reset
+# Distortion Reset
 
 ```text
 champion_heart_version: 0.8.0
-pressure_source: 
+distortion_source: 
 fact: 
 fear: 
 noise: 

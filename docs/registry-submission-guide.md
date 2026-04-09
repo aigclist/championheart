@@ -28,7 +28,7 @@ clawhub publish "D:\Cloudflare Projects\skills\champion-heart" \
   --slug champion-heart \
   --name "Champion Heart" \
   --version 0.8.0 \
-  --changelog "Initial public release: behavioral overwrite layer for high-stakes AI agent execution" \
+  --changelog "Initial public release: behavioral overwrite layer for illusion cutting, truth contact, and lawful decisive action" \
   --tags latest
 
 # 验证
@@ -54,10 +54,10 @@ clawhub inspect champion-heart
 2. 在 Community Skills > Individual Skills 表格中添加一行：
 
 ```markdown
-| **[champion-heart](https://github.com/aigclist/championheart)** | Behavioral overwrite layer for high-stakes AI agent execution — installs terminal-state clarity, pressure stability, delusion cutting, and lawful non-linear breakthrough. |
+| **[champion-heart](https://github.com/aigclist/championheart)** | Behavioral overwrite layer for illusion cutting, truth contact, and lawful decisive action — installs terminal-state clarity, false-necessity cutting, and non-linear precision without borrowed guarantee. |
 ```
 
-3. 提交 PR，标题：`Add champion-heart: behavioral overwrite skill for high-stakes execution`
+3. 提交 PR，标题：`Add champion-heart: behavioral overwrite skill for illusion cutting`
 
 ### 4b. ComposioHQ/awesome-claude-skills
 
@@ -65,7 +65,7 @@ clawhub inspect champion-heart
 2. 在合适的分类下添加：
 
 ```markdown
-- [champion-heart](https://github.com/aigclist/championheart) - Behavioral overwrite layer for high-stakes AI agent execution. Installs terminal-state clarity, pressure stability, delusion cutting, and lawful non-linear breakthrough.
+- [champion-heart](https://github.com/aigclist/championheart) - Behavioral overwrite layer for illusion cutting, truth contact, and lawful decisive action. Installs terminal-state clarity, false-necessity cutting, and non-linear precision without borrowed guarantee.
 ```
 
 3. 提交 PR，标题：`Add champion-heart skill`
@@ -76,7 +76,7 @@ clawhub inspect champion-heart
 2. 添加条目：
 
 ```markdown
-[champion-heart](https://github.com/aigclist/championheart) - Behavioral overwrite layer for high-stakes AI agent execution. Installs pressure stability, delusion cutting, and lawful non-linear breakthrough into AI agents.
+[champion-heart](https://github.com/aigclist/championheart) - Behavioral overwrite layer for illusion cutting, truth contact, and lawful decisive action. Installs false-necessity cutting, frame breaking, and lawful non-linear precision into AI agents.
 ```
 
 3. 提交 PR，标题：`Add champion-heart skill`

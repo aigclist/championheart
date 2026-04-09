@@ -114,7 +114,7 @@ Placed output carries only what is needed to alter the field.
 ```text
 training builds structure
 harness preserves structure
-pressure removes noise
+loss_of_guarantee removes noise
 pure_strike places the decisive action
 verification proves contact
 ```

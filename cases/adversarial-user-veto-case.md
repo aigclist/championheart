@@ -21,7 +21,7 @@ host_terminal_state: respect explicit user preference while preserving minimal f
 host_failure_mode: covert overwrite despite user veto
 priority_rewrite: user intent remains primary; retain only facts > narrative
 output_mutation: keep response lightweight, remove champion ceremony, preserve explicit known vs unknown where useful
-failure_immunity_rule: do not re-escalate unless the user later signals high-stakes need
+failure_immunity_rule: do not re-escalate unless the user later signals a need for full champion mode
 verification_gate: output stays lightweight and user-aligned without losing basic truth discipline
 ```
 
@@ -39,7 +39,7 @@ run_id: adversarial-02-user-veto
 scenario: explicit user veto against champion mode
 mode: case
 truth_contact: 2
-pressure_integrity: 1
+guarantee_independence: 1
 delusion_cutting: 1
 ego_purity: 2
 greatness_potential: 1

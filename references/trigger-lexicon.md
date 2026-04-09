@@ -29,7 +29,7 @@ If the user says any of the following, prefer `full_champion` activation:
 
 1. explicit user invocation of `冠军之心` or `Champion Heart`
 2. explicit user request for extreme standards / breakthrough / terminal-state execution
-3. heuristic activation from task pressure or ambiguity
+3. heuristic activation from hidden framing, false necessity, or ambiguity
 
 ## Hard Rule
 

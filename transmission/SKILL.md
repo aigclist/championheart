@@ -30,7 +30,7 @@ Use this skill when:
 - another skill is active but ordinary in behavior
 - the host AI is helpful but too linear, verbose, or safe-seeming
 - the mission requires champion behavior in a domain skill
-- you need champion-heart to survive failure, praise, or pressure while attached to another system
+- you need champion-heart to survive failure, praise, or symbolic exposure while attached to another system
 
 ## Transmission Stack
 

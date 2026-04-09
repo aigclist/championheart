@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>把冠军级行为安装进 AI agent。</strong><br>
-  <sub>一个面向高压、高风险、高价值任务的 meta-skill harness。</sub>
+  <sub>一个面向幻觉切割、真实接触、合法跃迁与无担保行动的 meta-skill harness。</sub>
 </p>
 
 <p align="center">
@@ -54,17 +54,17 @@
 
 ## 🔥 它是什么
 
-`冠军之心.skill` 是一个面向高压任务的**行为覆写协议**。不是人格皮肤，不是励志海报。
+`冠军之心.skill` 是一个面向**幻觉切割与真实接触**的行为覆写协议。不是人格皮肤，不是励志海报，也不是把强度表演成能力的模式。
 
 它把 agent 推向这几个核心状态：
 
 | 状态 | 含义 |
 |------|------|
 | 🎯 终局清晰 | 先定义终态，再决定路径 |
-| 🛡️ 抗压稳定 | 压力揭示信号，不制造噪声 |
-| 🗡️ 斩断幻觉 | 砍掉假问题、假流程、假困难 |
-| ⚡ 合法跃迁 | 非线性路径合法时，直接跳 |
+| 🗡️ 斩断幻觉 | 砍掉假问题、假流程、假必然性 |
 | 🔓 破框改道 | 打破默认河道，再决定是否优化 |
+| ⚡ 合法跃迁 | 非线性路径合法时，直接跳 |
+| 🧱 不借担保 | 不等外部许可，直接以真实后果检验行动 |
 | ✅ 结果可验 | 每一刀都要验证落点 |
 
 核心公式：
@@ -77,10 +77,10 @@ touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_co
 
 **适合：**
 
-- 任务价值高，平庸输出不可接受
-- 压力真实存在，执行容易漂移
-- 当前路径显得臃肿、虚假、仪式化
+- 当前路径显得臃肿、虚假、被社会剧本牵引
+- 任务被隐藏框架或假必然性支配
 - 你要的是最短真路径，不是最像在做事的路径
+- 就算有压力或高价值，它们也只是检验场，不是这个 skill 的本体定义
 
 **不适合：**
 
@@ -103,7 +103,7 @@ touch_truth -> define_terminal_state -> cut_illusion -> strike_true -> verify_co
 ### 1. 进入冠军模式
 
 ```text
-Use champion-heart. Find the decisive leverage and build the shortest lawful battle plan for this task.
+Use champion-heart. Identify the hidden frame, cut false necessity, and find the shortest lawful true path for this task.
 ```
 
 ### 2. 接管另一个 Skill
@@ -131,7 +131,7 @@ Use champion-heart. Run a trial with coach supervision and score the outcome.
 
 1. 读 `SKILL.md` 里的六个境界
 2. 读 `cases/coding-case-03-real-session.md`
-3. 粘贴：`Use champion-heart. I need to [describe your hardest current task]. Build a battle plan.`
+3. 粘贴：`Use champion-heart. I need to [describe the task]. Identify the hidden frame, cut false necessity, and take the shortest lawful true path.`
 
 如果你闻到的是假顺序，而不是真路径，直接这样说：
 
@@ -144,7 +144,7 @@ Use champion-heart. Ignore ceremonial sequence. Find the lawful non-linear path 
 一键安装（推荐）：
 
 ```bash
-# 通用 — 支持 45+ agent（Claude Code、OpenCode、Cursor、Codex、Gemini CLI…）
+# 通用安装器
 npx skills add aigclist/championheart
 
 # ClawHub（OpenClaw 生态）

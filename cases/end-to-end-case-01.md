@@ -3,14 +3,14 @@
 ## Task
 
 ```text
-Important high-pressure task. Enter champion mode only if justified, recover from one failed attempt, use coach correction once, then exit with a final scorecard.
+Important high-consequence task. Enter champion mode only if justified, recover from one failed attempt, use coach correction once, then exit with a final scorecard.
 ```
 
 ## Entry Gate
 
 ```text
 mode: full_champion
-why: stakes high, pressure high, ambiguity blocking progress
+why: consequence high, hidden framing likely, ambiguity blocking progress
 terminal_signal: ordinary execution would drift into process theater
 ```
 
@@ -34,7 +34,7 @@ result: branch failed to explain the observed outcome
 ## Failure Immunity
 
 ```text
-trigger: failed branch under pressure
+trigger: failed branch after guarantee collapse
 fallback_pattern: broadening into many possibilities
 champion_rule: missed contact is information, not identity damage
 corrective_strike: remove the failed branch and define the next narrow falsifiable path
@@ -68,7 +68,7 @@ run_id: end-to-end-01
 scenario: gate -> execute -> fail -> immunity -> coach -> rerun
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 2
 ego_purity: 2
 greatness_potential: 1

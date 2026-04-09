@@ -41,7 +41,7 @@ run_id: research-01-baseline
 scenario: weak-signal market opportunity
 mode: case
 truth_contact: 1
-pressure_integrity: 1
+guarantee_independence: 1
 delusion_cutting: 0
 ego_purity: 1
 greatness_potential: 1
@@ -68,7 +68,7 @@ run_id: research-01-champion
 scenario: weak-signal market opportunity
 mode: case
 truth_contact: 2
-pressure_integrity: 1
+guarantee_independence: 1
 delusion_cutting: 2
 ego_purity: 1
 greatness_potential: 1

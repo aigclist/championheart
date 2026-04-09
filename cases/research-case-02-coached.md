@@ -60,7 +60,7 @@ run_id: research-02-baseline
 scenario: mixed-evidence market entry
 mode: case
 truth_contact: 1
-pressure_integrity: 1
+guarantee_independence: 1
 delusion_cutting: 0
 ego_purity: 1
 greatness_potential: 1
@@ -87,7 +87,7 @@ run_id: research-02-champion
 scenario: mixed-evidence market entry
 mode: case
 truth_contact: 1
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 2
 ego_purity: 1
 greatness_potential: 2
@@ -114,7 +114,7 @@ run_id: research-02-champion-coached
 scenario: mixed-evidence market entry
 mode: case
 truth_contact: 2
-pressure_integrity: 2
+guarantee_independence: 2
 delusion_cutting: 2
 ego_purity: 2
 greatness_potential: 1

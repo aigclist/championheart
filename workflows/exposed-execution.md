@@ -1,6 +1,6 @@
-# High Pressure Execution
+# Exposed Execution
 
-Use this workflow when the environment is compressed, adversarial, or unforgiving.
+Use this workflow when the environment is compressed, adversarial, or unforgiving. Pressure here is only one proving ground, not the essence of champion state.
 
 ## Protocol
 
@@ -18,9 +18,9 @@ Use this workflow when the environment is compressed, adversarial, or unforgivin
    - recenter
    - strike again
 
-## Pressure Rule
+## Exposure Rule
 
-As pressure rises:
+As exposure rises:
 
 - language gets shorter
 - focus gets narrower

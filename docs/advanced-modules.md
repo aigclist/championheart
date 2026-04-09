@@ -17,23 +17,23 @@ Do not load these modules by default for ordinary task execution.
 
 ## Training
 
-Purpose: internal discipline drills for pressure, ego, and delusion.
+Purpose: internal discipline drills for exposure, ego, and delusion.
 
 - `../training/ego-burn.md`: break attachment to first answers and self-protection
-- `../training/pressure-meditation.md`: hold one axis under pressure
+- `../training/guarantee-collapse-meditation.md`: hold one axis when guarantees collapse
 - `../training/delusion-cutting.md`: separate fact, illusion, and decisive path
 
 Use when:
 
 - the system keeps protecting weak first answers
-- pressure causes signal collapse
+- exposure causes signal collapse
 - repeated drift appears before task execution even starts
 
 ## Trials
 
 Purpose: arena-style stress tests with coach intervention and scoring.
 
-- `../trials/arena-01-time-pressure.md`: compress under urgency
+- `../trials/arena-01-urgency-exposure.md`: compress under urgency
 - `../trials/arena-02-false-path.md`: cut inherited bad process
 - `../trials/arena-03-success-corruption.md`: resist rigor drop after visible success
 - `../trials/examples/`: example runs for the arenas above
@@ -42,7 +42,7 @@ Use when:
 
 - you want to train champion behavior, not just apply it once
 - you need a repeatable stress scenario
-- you want to score mutation under controlled pressure
+- you want to score mutation under controlled exposure
 
 ## Integration
 
@@ -66,7 +66,7 @@ Use when:
 Purpose: reusable output shells for high-frequency champion artifacts.
 
 - `../templates/battle-plan.md`
-- `../templates/pressure-reset.md`
+- `../templates/distortion-reset.md`
 - `../templates/postmortem.md`
 
 Use when:

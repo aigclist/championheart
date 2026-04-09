@@ -1,6 +1,6 @@
 # Integration: champion-heart + qa
 
-Use champion-heart above `qa` when the user needs bug-finding under pressure without drift into checklist theater.
+Use champion-heart above `qa` when the user needs bug-finding under exposure without drift into checklist theater.
 
 ## Mutation
 
